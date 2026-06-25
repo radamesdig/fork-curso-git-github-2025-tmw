@@ -56,7 +56,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 ----
 
-Pessoas participantes:
+Pessoas participantes (tops+):
 
 - Igor Dammous
 - Infoslack
@@ -64,3 +64,5 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- Bruno Radamés
+
